@@ -1,0 +1,5 @@
+link = "/about"
+email = "Webmaster@makecme.com"
+name = "Acme"
+[zh-cn]
+    name = "MR.Zhao"
