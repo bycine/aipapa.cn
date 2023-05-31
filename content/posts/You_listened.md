@@ -14,7 +14,7 @@ date: 2023-05-31T13:02:09+08:00
 # 修改时间
 lastmod:
 # 编译
-draft: true
+draft: false
 # 主页是否显示 如果为true，则内容不会显示在主页中。
 hiddenFromHomePage: false
 # 特图
