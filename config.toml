@@ -1,10 +1,10 @@
   baseURL = "https://aipapa.com/"
   Theme = "DoIt"
   defaultContentLanguage = "zh-cn"
-  title = "不一样的女生 - 更多的选择"
+  title = "爱啪网 - 不一样的女生 - 更多的选择"
 [params]
   # 网站描述
-  description = "不一样的女生 - 不一样的选择"
+  description = "爱啪网 - 不一样的女生 - 不一样的选择"
   # 网站关键词
   keywords = ["女生，穿搭，日常,贴身,化妆,内衣"]
   #  网站默认主题样式 ("light", "dark", "black", "auto")

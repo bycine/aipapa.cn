@@ -51,5 +51,4 @@ summary: 越轰轰烈烈的爱情，越经不起平淡平凡，往往到最后�
 18. 太过文艺的人(普通人)，尽量远离，因为他们的现实生活往往是一地鸡毛。
 19. 不要试图去改变一个人，因为这样做会很难，会破坏你的自恋，让你饱受委屈，到最后你会发现改变不了任何人。
 
-<a target="_blank" href="https://www.amazon.cn/b?_encoding=UTF8&tag=make00-23&linkCode=ur2&linkId=e0546ad26af2f7152501f811eafa97df&camp=536&creative=3200&node=853217051">亚马逊销售排行</a>
 
