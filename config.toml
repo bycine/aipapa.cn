@@ -2,6 +2,8 @@
   Theme = "DoIt"
   defaultContentLanguage = "zh-cn"
   title = "爱啪网 - 不一样的女生 - 更多的选择"
+    # 中文字数支持
+  hasCJKLanguage = true
 [params]
   # 网站描述
   description = "爱啪网 - 不一样的女生 - 不一样的选择"
