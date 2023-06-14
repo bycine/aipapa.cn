@@ -574,7 +574,7 @@
   # 网站验证代码, 用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
     google = "O4RZl8c9V48oI-k_vsnO6zTj0Md70sYNMIfcaRBjC9Q"
-    bing = ""
+    bing = "1C4EC278295D37728B6826805B2B7247"
     yandex = ""
     pinterest = ""
     baidu = ""
